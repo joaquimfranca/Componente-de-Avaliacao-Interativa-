@@ -1,0 +1,76 @@
+
+.star_img_container{
+    height: 45px;
+    width: 45px;
+    border-radius: 58%;
+    background-color: hsl(211,19%,24%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    color: white;
+    margin: 1rem 0 1rem 0;
+}
+
+.text{
+    color:hsl(217,12%,63%) ;
+    margin-bottom: 1.25rem;
+    font-size:0.9rem ;
+    line-height: 1.4rem;
+
+}
+
+.rating{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    cursor: pointer;
+    
+}
+
+.rating_container{
+    text-align: center;
+    height: 45px;
+    width: 45px;
+    border-radius: 58%;
+    background-color: hsl(211,19%,24%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(225, 220, 220);
+    font-weight: 700;
+}
+
+.rating_container.active{
+    color: white;
+    background-color: hsl(216,12%,54%);
+}
+.rating_container:hover{
+    background-color: hsl(25,97%,53%);
+    color: white;
+}    
+
+
+
+ .submit_btn{
+    margin-top: 10px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    width: 100%;
+    padding:12px 0 ;
+    background-color: hsl(25,97%,53%);
+    color:white;
+    border-radius: 25px;
+    letter-spacing: 1.5px;
+    font-family: inherit;
+    font-weight: 700;
+ }
+ .submit_btn:active{
+    background-color: white;
+    color:hsl(25,97%,53%);
+ }
+ 
