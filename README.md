@@ -7,6 +7,6 @@ Este é um projeto legal e pequeno para praticar o tratamento de interações do
 Eu utilizei React e TypeScript para fazer esse projeto.
 
 
-##  Deployment
-<h1 style="font-size:20px;">https://componente-de-avaliacao-interativa.vercel.app/ </h1> </br>
+# Deployment:
+<h1 style="font-size:15px;">https://componente-de-avaliacao-interativa.vercel.app/ </h1> </br>
 <img src="./public/thumb.png" style="width: 600px; height: auto;">
